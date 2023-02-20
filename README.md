@@ -1,6 +1,3 @@
-# JS-Q3
-See D2L for more instructions.
-
 ## Output
 The output for **LanguageTranslator.js** is shown below.
 <br/>
