@@ -1,7 +1,6 @@
 ## Output
 The output for **LanguageTranslator.js** is shown below.
-<br/>
-1. This is when its translating from **English** to **French** with stats.
+<br/>1. This is when its translating from **English** to **French** with stats.
 <img src="https://github.com/CS2613-WI2023/javascript-assignment-q3-athuduku/blob/2893543bbfc08e8cf6a4442fc6f1b63b9d862332/CS2613_JAVASCRIPT_Q3_1.png"/>
 
 2. This is when its translating from **English** to **English** with stats.
